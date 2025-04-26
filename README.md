@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Im Qu Yinzu Literelly i'm a programmer 👯 I’m looking to collaborate on my project to make money
 
 <!--
 **Qu-Yinzu/Qu-Yinzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
