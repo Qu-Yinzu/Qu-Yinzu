@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋 Im Qu Yinzu, i'm a programmer 👯 I’m looking to collaborate on my project to make money</h1>
+<h1 align="left">Hi there 👋 Im Qu Yinzu, i'm a programmer, gamer, desainer and everything if i want.</h1>
 
 ###
 
