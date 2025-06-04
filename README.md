@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋 Im Qu Yinzu, i'm a programmer, gamer, desainer and everything if i want.</h1>
+<h2 align="left">Hi there 👋 Im Qu Yinzu, i'm a programmer, gamer, desainer and everything if i want.</h2>
 
 ###
 
