@@ -25,10 +25,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@YinPlay%E4%B8%82" target="_blank">
+  <a href="https://www.youtube.com/@yinzudeskylark" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/quyinzu/" target="_blank">
+  <a href="https://www.instagram.com/mahdiisgood_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
