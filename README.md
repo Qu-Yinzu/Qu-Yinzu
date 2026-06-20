@@ -1,10 +1,6 @@
-<h2 align="left">Hi there 👋 Im Qu Yinzu, i'm a programmer, gamer, desainer and everything if i want.</h2>
+<h2 align="left">Hi 👋  I'm Yinzu! If you'd like to see my digital projects to know me better, follow me!👌</h2>
 
-###
-
-<img align="right" height="150" src="https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif"  />
-
-###
+<img align="right" height="150" src="https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif"/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -24,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="fastapi logo"  />
-</div>
+</div
 
 ###
 
